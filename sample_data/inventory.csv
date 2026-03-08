@@ -1,0 +1,33 @@
+product_id,product_name,category,current_stock,avg_daily_sales,cost_price,selling_price,margin_pct,lead_time_days,expiry_date,last_sold_date,reorder_point,max_stock
+P001,Organic Whole Milk 1L,Dairy,51,12,45,75,40.0,2,2026-04-27,2026-03-07,36,168
+P002,Greek Yogurt 500g,Dairy,1,8,55,90,38.9,2,2026-04-23,2026-03-04,24,112
+P003,Cheddar Cheese 200g,Dairy,6,5,80,130,38.5,3,2026-03-13,2026-01-31,22,70
+P004,Eggs (12pk),Dairy,60,15,75,120,37.5,2,2026-03-12,2026-03-04,45,210
+P005,Fresh Bread Loaf,Bakery,137,20,25,45,44.4,1,2026-04-17,2026-03-08,30,280
+P006,Croissants (6pk),Bakery,38,7,60,95,36.8,1,2026-04-24,2026-03-06,10,98
+P007,Paracetamol 500mg 20s,Pharmacy,19,6,35,65,46.2,5,2026-03-17,2026-03-08,45,84
+P008,Ibuprofen 400mg 16s,Pharmacy,11,4,42,78,46.2,5,2026-04-18,2026-03-08,30,56
+P009,Vitamin C 1000mg 30s,Pharmacy,29,3,90,160,43.8,5,2026-03-18,2026-03-05,22,42
+P010,Antihistamine 10mg 30s,Pharmacy,2,2,55,105,47.6,5,2026-05-03,2026-03-06,15,28
+P011,Hand Sanitizer 250ml,Health,42,5,28,55,49.1,4,N/A,2026-01-16,30,70
+P012,Face Masks (50pk),Health,5,2,120,195,38.5,4,N/A,2026-03-07,12,28
+P013,Basmati Rice 5kg,Grains,64,4,180,280,35.7,7,N/A,2026-03-06,42,56
+P014,Pasta Penne 500g,Grains,24,9,22,38,42.1,5,N/A,2026-03-06,67,126
+P015,Olive Oil 500ml,Condiments,14,3,95,165,42.4,6,N/A,2026-03-07,27,42
+P016,Tomato Sauce 400g,Condiments,75,11,18,32,43.8,5,2026-03-21,2026-03-06,82,154
+P017,Orange Juice 1L,Beverages,196,14,38,65,41.5,3,2026-04-23,2026-03-08,63,196
+P018,Mineral Water 6pk,Beverages,29,18,45,72,37.5,3,N/A,2026-03-05,81,252
+P019,Coffee Beans 250g,Beverages,9,4,120,210,42.9,7,N/A,2026-03-04,42,56
+P020,Green Tea 25 bags,Beverages,40,3,55,90,38.9,6,N/A,2026-03-05,27,42
+P021,Chicken Breast 500g,Meat,33,9,95,165,42.4,2,2026-04-09,2026-03-07,27,126
+P022,Beef Mince 500g,Meat,17,6,110,185,40.5,2,2026-04-27,2026-03-04,18,84
+P023,Bananas 1kg,Produce,38,16,28,48,41.7,2,2026-03-19,2026-03-08,48,224
+P024,Apples 1kg,Produce,62,12,45,75,40.0,2,2026-03-20,2026-03-05,36,168
+P025,Spinach 200g,Produce,52,7,30,55,45.5,2,2026-04-04,2026-03-05,21,98
+P026,Tomatoes 500g,Produce,75,10,35,58,39.7,2,2026-05-05,2026-03-08,30,140
+P027,Shampoo 400ml,Personal Care,16,2,85,145,41.4,8,N/A,2026-03-06,24,28
+P028,Body Lotion 200ml,Personal Care,3,2,75,128,41.4,8,N/A,2026-03-08,24,28
+P029,Toothpaste 150g,Personal Care,56,4,45,78,42.3,7,N/A,2026-03-07,42,56
+P030,Laundry Detergent 1kg,Household,15,3,110,175,37.1,6,N/A,2026-03-06,27,42
+P031,Dish Soap 500ml,Household,36,5,35,58,39.7,5,N/A,2026-03-07,37,70
+P032,Toilet Paper 12pk,Household,14,6,145,225,35.6,5,N/A,2026-03-04,45,84
